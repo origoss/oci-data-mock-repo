@@ -1,2 +1,3 @@
 loader_type: "sqlcl"
 file_path: "files/first-sql-mock.xml"
+user: "oci-data-mock-sql-user"
